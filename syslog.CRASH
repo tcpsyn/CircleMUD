@@ -1,0 +1,30 @@
+Mar 14 10:50:52 2020 :: OLC: Amalgamation stops editing zone 0 allowed zone 0
+Mar 14 10:50:54 2020 :: OLC: Amalgamation starts editing zone 0 allowed zone 0
+Mar 14 10:50:55 2020 :: OLC: Amalgamation stops editing zone 0 allowed zone 0
+Mar 14 10:51:58 2020 :: nusage: 1   sockets connected, 1   sockets playing
+Mar 14 10:52:49 2020 :: OLC: Amalgamation starts editing zone 0 allowed zone 0
+Mar 14 10:53:24 2020 :: OLC: Amalgamation stops editing zone 0 allowed zone 0
+Mar 14 10:56:48 2020 :: OLC: Amalgamation starts editing zone 0 allowed zone 0
+Mar 14 10:56:55 2020 :: OLC: Amalgamation stops editing zone 0 allowed zone 0
+Mar 14 10:56:58 2020 :: nusage: 1   sockets connected, 1   sockets playing
+Mar 14 10:57:29 2020 :: OLC: Amalgamation starts editing zone 1 allowed zone 0
+Mar 14 11:00:38 2020 :: OLC: Amalgamation edits obj 199
+Mar 14 11:00:38 2020 :: OLC: Amalgamation stops editing zone 1 allowed zone 0
+Mar 14 11:00:52 2020 :: OLC: Amalgamation starts editing zone 1 allowed zone 0
+Mar 14 11:01:07 2020 :: OLC: Amalgamation edits obj 199
+Mar 14 11:01:07 2020 :: OLC: Amalgamation stops editing zone 1 allowed zone 0
+Mar 14 11:01:58 2020 :: nusage: 1   sockets connected, 1   sockets playing
+Mar 14 11:06:58 2020 :: nusage: 1   sockets connected, 1   sockets playing
+Mar 14 11:10:09 2020 :: OLC: Amalgamation saves 'text/motd'.
+Mar 14 11:10:09 2020 :: OLC: Amalgamation stops editing text files.
+Mar 14 11:11:07 2020 :: OLC: Amalgamation stops editing text files.
+Mar 14 11:11:58 2020 :: nusage: 1   sockets connected, 1   sockets playing
+Mar 14 11:12:17 2020 :: OLC: Amalgamation stops editing text files.
+Mar 14 11:16:58 2020 :: nusage: 1   sockets connected, 1   sockets playing
+Mar 14 11:17:51 2020 :: Amalgamation tried to get help on halo
+Mar 14 11:18:58 2020 :: OLC: Amalgamation saves 'text/imotd'.
+Mar 14 11:18:58 2020 :: OLC: Amalgamation stops editing text files.
+Mar 14 11:21:58 2020 :: nusage: 1   sockets connected, 1   sockets playing
+Mar 14 11:22:40 2020 :: SYSERR: Received SIGHUP, SIGINT, or SIGTERM.  Shutting down...
+Quick boot mode -- rent check supressed.
+Using file descriptor for logging.
