@@ -1,30 +1,30 @@
-Mar 14 11:27:16 2020 :: Resetting #319: Yllythad Sea (rooms 31900-31999).
-Mar 14 11:27:16 2020 :: Resetting #320: Yllythad Sea II (rooms 32000-32099).
-Mar 14 11:27:16 2020 :: Resetting #321: Yllythad Sea III (rooms 32100-32199).
-Mar 14 11:27:16 2020 :: Resetting #322: McGintey Bay (rooms 32200-32299).
-Mar 14 11:27:16 2020 :: Resetting #323: Caverns of the Pale Man (rooms 32300-32399).
-Mar 14 11:27:16 2020 :: Resetting #324: Army Encampment (rooms 32400-32499).
-Mar 14 11:27:16 2020 :: Resetting #325: Revelry (rooms 32500-32599).
-Mar 14 11:27:16 2020 :: Resetting #326: Army Perimeter (rooms 32600-32699).
-Mar 14 11:27:16 2020 :: Resetting #343: God Complex  (rooms 34300-34399).
-Mar 14 11:27:16 2020 :: Resetting #345: Asylum for the Insane (rooms 34500-34599).
-Mar 14 11:27:16 2020 :: Resetting #346: God Hall Ext 346 for God Hall Cmplx (rooms 34600-34699).
-Mar 14 11:27:16 2020 :: Resetting #555: Ultima (rooms 55500-55599).
-Mar 14 11:27:16 2020 :: Resetting #556: Ultima II (rooms 55600-55699).
-Mar 14 11:27:16 2020 :: Resetting #653: Apartment (rooms 65300-65399).
-Mar 14 11:27:16 2020 :: Resetting #654: Subdivision (rooms 65400-65499).
-Mar 14 11:27:16 2020 :: Boot db -- DONE.
-Mar 14 11:27:16 2020 :: Signal trapping.
-Mar 14 11:27:16 2020 :: Entering game loop.
-Mar 14 11:27:16 2020 :: No connections.  Going to sleep.
-Mar 14 11:28:51 2020 :: New connection.  Waking up.
-Mar 14 11:29:04 2020 :: Amalgamation has connected.
-Mar 14 11:29:06 2020 :: Amalgamation had no variable file
-Mar 14 11:29:06 2020 :: Amalgamation retrieving crash-saved items and entering game.
-Mar 14 11:29:06 2020 :: Amalgamation (level 34) has 1 object (max 30).
-Mar 14 11:29:21 2020 :: OLC: Amalgamation stops editing text files.
-Mar 14 11:29:28 2020 :: OLC: Amalgamation stops editing text files.
-Mar 14 11:30:41 2020 :: OLC: Amalgamation stops editing text files.
-Mar 14 11:32:03 2020 :: SYSERR: Received SIGHUP, SIGINT, or SIGTERM.  Shutting down...
+Mar 14 11:34:29 2020 :: Resetting #343: God Complex  (rooms 34300-34399).
+Mar 14 11:34:29 2020 :: Resetting #345: Asylum for the Insane (rooms 34500-34599).
+Mar 14 11:34:29 2020 :: Resetting #346: God Hall Ext 346 for God Hall Cmplx (rooms 34600-34699).
+Mar 14 11:34:29 2020 :: Resetting #555: Ultima (rooms 55500-55599).
+Mar 14 11:34:29 2020 :: Resetting #556: Ultima II (rooms 55600-55699).
+Mar 14 11:34:29 2020 :: Resetting #653: Apartment (rooms 65300-65399).
+Mar 14 11:34:29 2020 :: Resetting #654: Subdivision (rooms 65400-65499).
+Mar 14 11:34:29 2020 :: Boot db -- DONE.
+Mar 14 11:34:29 2020 :: Signal trapping.
+Mar 14 11:34:29 2020 :: Entering game loop.
+Mar 14 11:34:29 2020 :: No connections.  Going to sleep.
+Mar 14 11:34:37 2020 :: New connection.  Waking up.
+Mar 14 11:34:45 2020 :: Amalgamation has connected.
+Mar 14 11:34:48 2020 :: Amalgamation had no variable file
+Mar 14 11:34:48 2020 :: Amalgamation retrieving crash-saved items and entering game.
+Mar 14 11:34:48 2020 :: Amalgamation (level 34) has 1 object (max 30).
+autorun starting game Sat Mar 14 11:35:07 EDT 2020
+running bin/circle -q 4000
+No etc/config file, using defaults: No such file or directory
+Mar 14 11:35:07 2020 :: Loading configuration.
+Mar 14 11:35:07 2020 :: tbaMUD 2020
+Mar 14 11:35:07 2020 :: Using lib as data directory.
+Mar 14 11:35:07 2020 :: Running game on port 4000.
+Mar 14 11:35:07 2020 :: Finding player limit.
+Mar 14 11:35:07 2020 ::    Setting player limit to 300 using rlimit.
+Mar 14 11:35:07 2020 :: Opening mother connection.
+Mar 14 11:35:07 2020 :: Binding to all IP interfaces on this host.
+SYSERR: bind: Address already in use
 Quick boot mode -- rent check supressed.
 Using file descriptor for logging.

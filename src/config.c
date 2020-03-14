@@ -262,8 +262,8 @@ int use_new_socials = YES;
 
 const char *MENU =
 "\r\n"
-"Welcome to tbaMUD!\r\n"
-"\t(0\t)) Exit from tbaMUD.\r\n"
+"Welcome to The Uncanny Valley MUD!!\r\n"
+"\t(0\t)) Exit from The Uncanny Valley MUD.\r\n"
 "\t(1\t)) Enter the game.\r\n"
 "\t(2\t)) Enter description.\r\n"
 "\t(3\t)) Read the background story.\r\n"

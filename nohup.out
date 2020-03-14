@@ -229,3 +229,129 @@ rm: cannot remove 'log/syslog.1': No such file or directory
 mv: cannot stat 'log/syslog.2': No such file or directory
 mv: cannot stat 'log/syslog.3': No such file or directory
 mv: cannot stat 'log/syslog.4': No such file or directory
+./autorun.sh: 47: ./autorun.sh: cannot create syslog: Directory nonexistent
+./autorun.sh: 48: ./autorun.sh: cannot create syslog: Directory nonexistent
+./autorun.sh: 50: ./autorun.sh: cannot create syslog: Directory nonexistent
+./autorun.sh: 52: ./autorun.sh: cannot create syslog.CRASH: Directory nonexistent
+./autorun.sh: 54: ./autorun.sh: cannot create log/delete: Directory nonexistent
+./autorun.sh: 55: ./autorun.sh: cannot create log/delete: Directory nonexistent
+./autorun.sh: 56: ./autorun.sh: cannot create log/dts: Directory nonexistent
+./autorun.sh: 57: ./autorun.sh: cannot create log/rip: Directory nonexistent
+./autorun.sh: 58: ./autorun.sh: cannot create log/restarts: Directory nonexistent
+./autorun.sh: 59: ./autorun.sh: cannot create log/levels: Directory nonexistent
+./autorun.sh: 60: ./autorun.sh: cannot create log/rentgone: Directory nonexistent
+./autorun.sh: 61: ./autorun.sh: cannot create log/usage: Directory nonexistent
+./autorun.sh: 62: ./autorun.sh: cannot create log/newplayers: Directory nonexistent
+./autorun.sh: 63: ./autorun.sh: cannot create log/errors: Directory nonexistent
+./autorun.sh: 64: ./autorun.sh: cannot create log/godcmds: Directory nonexistent
+./autorun.sh: 65: ./autorun.sh: cannot create log/badpws: Directory nonexistent
+rm: cannot remove 'log/syslog.1': No such file or directory
+mv: cannot stat 'log/syslog.2': No such file or directory
+mv: cannot stat 'log/syslog.3': No such file or directory
+mv: cannot stat 'log/syslog.4': No such file or directory
+mv: cannot stat 'log/syslog.5': No such file or directory
+mv: cannot stat 'log/syslog.6': No such file or directory
+mv: cannot stat 'syslog': No such file or directory
+touch: cannot touch 'syslog': No such file or directory
+rm: cannot remove 'log/syslog.1': No such file or directory
+mv: cannot stat 'log/syslog.2': No such file or directory
+mv: cannot stat 'log/syslog.3': No such file or directory
+./autorun.sh: 47: ./autorun.sh: cannot create syslog: Directory nonexistent
+./autorun.sh: 48: ./autorun.sh: cannot create syslog: Directory nonexistent
+./autorun.sh: 50: ./autorun.sh: cannot create syslog: Directory nonexistent
+./autorun.sh: 52: ./autorun.sh: cannot create syslog.CRASH: Directory nonexistent
+./autorun.sh: 54: ./autorun.sh: cannot create log/delete: Directory nonexistent
+./autorun.sh: 55: ./autorun.sh: cannot create log/delete: Directory nonexistent
+./autorun.sh: 56: ./autorun.sh: cannot create log/dts: Directory nonexistent
+./autorun.sh: 57: ./autorun.sh: cannot create log/rip: Directory nonexistent
+./autorun.sh: 58: ./autorun.sh: cannot create log/restarts: Directory nonexistent
+./autorun.sh: 59: ./autorun.sh: cannot create log/levels: Directory nonexistent
+./autorun.sh: 60: ./autorun.sh: cannot create log/rentgone: Directory nonexistent
+./autorun.sh: 61: ./autorun.sh: cannot create log/usage: Directory nonexistent
+./autorun.sh: 62: ./autorun.sh: cannot create log/newplayers: Directory nonexistent
+./autorun.sh: 63: ./autorun.sh: cannot create log/errors: Directory nonexistent
+./autorun.sh: 64: ./autorun.sh: cannot create log/godcmds: Directory nonexistent
+./autorun.sh: 65: ./autorun.sh: cannot create log/badpws: Directory nonexistent
+rm: cannot remove 'log/syslog.1': No such file or directory
+mv: cannot stat 'log/syslog.2': No such file or directory
+mv: cannot stat 'log/syslog.3': No such file or directory
+mv: cannot stat 'log/syslog.4': No such file or directory
+mv: cannot stat 'log/syslog.5': No such file or directory
+mv: cannot stat 'log/syslog.6': No such file or directory
+mv: cannot stat 'syslog': No such file or directory
+touch: cannot touch 'syslog': No such file or directory
+rm: cannot remove 'log/syslog.1': No such file or directory
+mv: cannot stat 'log/syslog.2': No such file or directory
+./autorun.sh: 47: ./autorun.sh: cannot create syslog: Directory nonexistent
+./autorun.sh: 48: ./autorun.sh: cannot create syslog: Directory nonexistent
+./autorun.sh: 50: ./autorun.sh: cannot create syslog: Directory nonexistent
+./autorun.sh: 52: ./autorun.sh: cannot create syslog.CRASH: Directory nonexistent
+./autorun.sh: 54: ./autorun.sh: cannot create log/delete: Directory nonexistent
+./autorun.sh: 55: ./autorun.sh: cannot create log/delete: Directory nonexistent
+./autorun.sh: 56: ./autorun.sh: cannot create log/dts: Directory nonexistent
+./autorun.sh: 57: ./autorun.sh: cannot create log/rip: Directory nonexistent
+./autorun.sh: 58: ./autorun.sh: cannot create log/restarts: Directory nonexistent
+./autorun.sh: 59: ./autorun.sh: cannot create log/levels: Directory nonexistent
+./autorun.sh: 60: ./autorun.sh: cannot create log/rentgone: Directory nonexistent
+./autorun.sh: 61: ./autorun.sh: cannot create log/usage: Directory nonexistent
+./autorun.sh: 62: ./autorun.sh: cannot create log/newplayers: Directory nonexistent
+./autorun.sh: 63: ./autorun.sh: cannot create log/errors: Directory nonexistent
+./autorun.sh: 64: ./autorun.sh: cannot create log/godcmds: Directory nonexistent
+./autorun.sh: 65: ./autorun.sh: cannot create log/badpws: Directory nonexistent
+rm: cannot remove 'log/syslog.1': No such file or directory
+mv: cannot stat 'log/syslog.2': No such file or directory
+mv: cannot stat 'log/syslog.3': No such file or directory
+mv: cannot stat 'log/syslog.4': No such file or directory
+mv: cannot stat 'log/syslog.5': No such file or directory
+mv: cannot stat 'log/syslog.6': No such file or directory
+mv: cannot stat 'syslog': No such file or directory
+touch: cannot touch 'syslog': No such file or directory
+rm: cannot remove 'log/syslog.1': No such file or directory
+./autorun.sh: 47: ./autorun.sh: cannot create syslog: Directory nonexistent
+./autorun.sh: 48: ./autorun.sh: cannot create syslog: Directory nonexistent
+./autorun.sh: 50: ./autorun.sh: cannot create syslog: Directory nonexistent
+./autorun.sh: 52: ./autorun.sh: cannot create syslog.CRASH: Directory nonexistent
+./autorun.sh: 54: ./autorun.sh: cannot create log/delete: Directory nonexistent
+./autorun.sh: 55: ./autorun.sh: cannot create log/delete: Directory nonexistent
+./autorun.sh: 56: ./autorun.sh: cannot create log/dts: Directory nonexistent
+./autorun.sh: 57: ./autorun.sh: cannot create log/rip: Directory nonexistent
+./autorun.sh: 58: ./autorun.sh: cannot create log/restarts: Directory nonexistent
+./autorun.sh: 59: ./autorun.sh: cannot create log/levels: Directory nonexistent
+./autorun.sh: 60: ./autorun.sh: cannot create log/rentgone: Directory nonexistent
+./autorun.sh: 61: ./autorun.sh: cannot create log/usage: Directory nonexistent
+./autorun.sh: 62: ./autorun.sh: cannot create log/newplayers: Directory nonexistent
+./autorun.sh: 63: ./autorun.sh: cannot create log/errors: Directory nonexistent
+./autorun.sh: 64: ./autorun.sh: cannot create log/godcmds: Directory nonexistent
+./autorun.sh: 65: ./autorun.sh: cannot create log/badpws: Directory nonexistent
+rm: cannot remove 'log/syslog.1': No such file or directory
+mv: cannot stat 'log/syslog.2': No such file or directory
+mv: cannot stat 'log/syslog.3': No such file or directory
+mv: cannot stat 'log/syslog.4': No such file or directory
+mv: cannot stat 'log/syslog.5': No such file or directory
+mv: cannot stat 'log/syslog.6': No such file or directory
+mv: cannot stat 'syslog': No such file or directory
+touch: cannot touch 'syslog': No such file or directory
+./autorun.sh: 47: ./autorun.sh: cannot create syslog: Directory nonexistent
+./autorun.sh: 48: ./autorun.sh: cannot create syslog: Directory nonexistent
+./autorun.sh: 50: ./autorun.sh: cannot create syslog: Directory nonexistent
+./autorun.sh: 52: ./autorun.sh: cannot create syslog.CRASH: Directory nonexistent
+./autorun.sh: 54: ./autorun.sh: cannot create log/delete: Directory nonexistent
+./autorun.sh: 55: ./autorun.sh: cannot create log/delete: Directory nonexistent
+./autorun.sh: 56: ./autorun.sh: cannot create log/dts: Directory nonexistent
+./autorun.sh: 57: ./autorun.sh: cannot create log/rip: Directory nonexistent
+./autorun.sh: 58: ./autorun.sh: cannot create log/restarts: Directory nonexistent
+./autorun.sh: 59: ./autorun.sh: cannot create log/levels: Directory nonexistent
+./autorun.sh: 60: ./autorun.sh: cannot create log/rentgone: Directory nonexistent
+./autorun.sh: 61: ./autorun.sh: cannot create log/usage: Directory nonexistent
+./autorun.sh: 62: ./autorun.sh: cannot create log/newplayers: Directory nonexistent
+./autorun.sh: 63: ./autorun.sh: cannot create log/errors: Directory nonexistent
+./autorun.sh: 64: ./autorun.sh: cannot create log/godcmds: Directory nonexistent
+./autorun.sh: 65: ./autorun.sh: cannot create log/badpws: Directory nonexistent
+rm: cannot remove 'log/syslog.1': No such file or directory
+mv: cannot stat 'log/syslog.2': No such file or directory
+mv: cannot stat 'log/syslog.3': No such file or directory
+mv: cannot stat 'log/syslog.4': No such file or directory
+mv: cannot stat 'log/syslog.5': No such file or directory
+mv: cannot stat 'log/syslog.6': No such file or directory
+mv: cannot stat 'syslog': No such file or directory
+touch: cannot touch 'syslog': No such file or directory
