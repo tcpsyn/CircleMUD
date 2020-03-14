@@ -44,10 +44,10 @@ int script_players = NO;
  * players, as well as a variety of other "asshole player" protections. However,
  * if you decide you want to have an all-out knock-down drag-out PK Mud, just
  * set pk_allowed to YES - and anything goes. */
-int pk_allowed = NO;
+int pk_allowed = YES;
 
 /* Is playerthieving allowed? */
-int pt_allowed = NO;
+int pt_allowed = YES;
 
 /* Minimum level a player must be to shout/holler/gossip/auction. */
 int level_can_shout = 1;
@@ -274,11 +274,11 @@ const char *MENU =
 
 const char *WELC_MESSG =
 "\r\n"
-"Welcome to tbaMUD!  May your visit here be... Enlightening"
+"Welcome to The Uncanny Valley MUD!  May your visit here be... Enlightening"
 "\r\n\r\n";
 
 const char *START_MESSG =
-"Welcome.  This is your new tbaMUD character!  You can now earn gold,\r\n"
+"Welcome.  This is your new Uncanny Valley MUD character!  You can now earn gold,\r\n"
 "gain experience, find weapons and equipment, and much more -- while\r\n"
 "meeting people from around the world!\r\n";
 
